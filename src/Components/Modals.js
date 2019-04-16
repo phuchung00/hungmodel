@@ -24,6 +24,7 @@ export default class Modals extends Component {
   render() {
     let className = "modal ";
     const open = this.state.open;
+    
     if (open) {
       className += 'open';
     } else {
