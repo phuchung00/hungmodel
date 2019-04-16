@@ -1,2 +1,3 @@
 # hungmodel
-This is example.
+
+this is a model
