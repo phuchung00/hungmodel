@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Modal from './NewModal';
+import Modal from './Modal';
 
 export default class index extends Component {
   render() {
